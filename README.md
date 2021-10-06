@@ -5,7 +5,7 @@
 |이은성|이지호|조동혁|
 |:---:|:---:|:---:|
 [Front-End](https://github.com/TTOBAK/TTOBAK-FE)|[Audio Processing](https://github.com/TTOBAK/TTOBAK-STT)|[Back-End](https://github.com/TTOBAK/TTOBAK-BE)|
-|[@eun-seong](https://github.com/eun-seong)|[@marble25](https://github.com/eun-seong)|[@donghyeokJO](https://github.com/donghyeokJO)|
+|[@eun-seong](https://github.com/eun-seong)|[@marble25](https://github.com/marble25)|[@donghyeokJO](https://github.com/donghyeokJO)|
 
 ## ✍️ Projects
 ### Background
